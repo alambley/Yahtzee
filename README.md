@@ -1,5 +1,5 @@
 # Yahtzee
-An implementation of the popular Yahtzee game in Java SWT, built with Maven.
+An implementation of the popular Yahtzee game in Java SWT, built with maven.
 # How to build
 Beyond the standard 'mvn package', you might have to make sure that artifactId of the org.eclipse.swt dependency matches the target system. The current pom works for a Windows system using a 64bit JRE. Changes will have to be made for differing OS's and JRE bit architectures.
 
